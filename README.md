@@ -1,4 +1,3 @@
-## Hi i'm Michael 👋
 ### Now :
 🔭 I’m currently working on : **Update of my website** (fullstack)\
 🌱 I’m currently learning : **Mac OS**\
